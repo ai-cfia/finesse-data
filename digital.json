@@ -27,3 +27,32 @@
     }
   ]
 }
+{
+  "query": "Test Query",
+  "results": [
+    {
+      "id": "1",
+      "url": "testurl",
+      "title": "Test Title 1",
+      "content": "Test Content Paragraph 1",
+    },
+    {
+      "id": "2",
+      "url": "testurl",
+      "title": "Test Title 2",
+      "content": "Test Content Paragraph 2",
+    },
+    {
+      "id": "3",
+      "url": "testurl",
+      "title": "Test Title 3",
+      "content": "Test Content Paragraph 3",
+    },
+    {
+      "id": "4",
+      "url": "testurl",
+      "title": "Test Title 4",
+      "content": "Test Content Paragraph 4",
+    }
+  ]
+}
