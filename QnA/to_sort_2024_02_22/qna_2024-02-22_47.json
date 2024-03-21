@@ -6,5 +6,7 @@
     "url": "https://inspection.canada.ca/salubrite-alimentaire-pour-l-industrie/chimie-et-microbiologie-alimentaires/bulletin-d-enquete-et-rapports-d-analyse-sur-la-sa/bacteries-pathogenes-sur-les-mangues-et-les-papaye/fra/1505834353414/1505834353835",
     "text_content": "Demande de rapport complet La version intégrale du présent rapport est disponible sur demande. Le format dans lequel vous souhaitez recevoir le rapport (obligatoire) Fichier électronique PDF (format de document portable) envoyé par courriel Fichier électronique RTF (Rich Text Format) envoyé par courriel Copie braille envoyée par la poste Copie papier envoyée par la poste Vos coordonnées Prénom : (obligatoire) Nom : (obligatoire) Adresse de courriel : (obligatoire) Confirmer Adresse de courriel : (obligatoire) Comment vous vous décriviez? (obligatoire) Académie Association sectorielle Autres institutions du gouvernement Consommateur / Grand public Groupe de consommateur Industrie / Secteur commercial Adresse 1 : Adresse 2 : Ville : Province : Pays : Code postal :",
     "question": "Quelle est la version intégrale du rapport disponible sur demande?",
-    "answer": "La version intégrale du rapport est disponible sur demande."
+    "answer": "La version intégrale du rapport est disponible sur demande.",
+    "skip": true,
+    "reason": "overly vague and general and duplicated question"
 }
