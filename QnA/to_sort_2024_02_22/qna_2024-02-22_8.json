@@ -6,5 +6,7 @@
     "url": "https://inspection.canada.ca/food-recall-warnings-and-allergy-alerts/2019-10-04/eng/1570253185991/1570253191836",
     "text_content": "Public enquiries and media Public enquiriesToll-free: 1-800-442-2342 (Canada and U.S.) Telephone: 1-613-773-2342 (local or international) Email: information@inspection.gc.ca Media relationsTelephone: 613-773-6600 Email: cfia.media.acia@inspection.gc.ca",
     "question": "How can I contact public enquiries?",
-    "answer": "You can contact public enquiries through the following methods:\n- Toll-free: 1-800-442-2342 (Canada and U.S.)\n- Telephone: 1-613-773-2342 (local or international)\n- Email: information@inspection.gc.ca"
+    "answer": "You can contact public enquiries through the following methods:\n- Toll-free: 1-800-442-2342 (Canada and U.S.)\n- Telephone: 1-613-773-2342 (local or international)\n- Email: information@inspection.gc.ca",
+    "skip": true,
+    "reason": "overly vague and general"
 }

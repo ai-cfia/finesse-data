@@ -6,5 +6,7 @@
     "url": "https://inspection.canada.ca/food-recall-warnings-and-allergy-alerts/2019-10-15/eng/1571192117978/1571192124399",
     "text_content": "Background This recall was triggered by the CFIA's inspection activities. The CFIA is conducting a food safety investigation, which may lead to the recall of other products. If other high-risk products are recalled, the CFIA will notify the public through updated Food Recall Warnings. The CFIA is verifying that industry is removing the recalled products from the marketplace.",
     "question": "What triggered this recall?",
-    "answer": "This recall was triggered by the CFIA's inspection activities."
+    "answer": "This recall was triggered by the CFIA's inspection activities.",
+    "skip": true,
+    "reason": "overly vague and general"
 }
