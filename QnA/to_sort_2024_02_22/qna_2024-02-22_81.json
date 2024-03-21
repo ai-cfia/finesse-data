@@ -8,5 +8,5 @@
     "question": "Comment obtenir le rapport complet?",
     "answer": "La version intégrale du présent rapport est disponible sur demande. Vous pouvez choisir le format dans lequel vous souhaitez recevoir le rapport, tel que le fichier électronique PDF envoyé par courriel, le fichier électronique RTF envoyé par courriel, la copie braille envoyée par la poste ou la copie papier envoyée par la poste. Pour obtenir le rapport complet, veuillez fournir vos coordonnées, y compris votre prénom, nom, adresse de courriel, adresse postale et autres informations requises.",
     "skip": true,
-    "reason": "overly vague and general, which hinders the script from generating a satisfactory score."
+    "reason": "overly vague and general and duplicated question"
 }
