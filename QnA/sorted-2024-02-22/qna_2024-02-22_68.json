@@ -1,0 +1,12 @@
+{
+    "page_score": 0.5629857950507009,
+    "crawl_id": "818b9005-ae1b-43da-85be-844ae658f93c",
+    "chunk_id": "4dae1dd4-aafb-4595-8bbc-f843becfd6c7",
+    "title": "1.7 Subjects not covered in this document;1.8 Recommended additional references",
+    "url": "https://inspection.canada.ca/animal-health/humane-transport/health-of-animals-regulations-part-xii/eng/1582126008181/1582126616914",
+    "text_content": "1.7 Subjects not covered in this document This interpretive guidance document does not provide: detailed information about all aspects of animal loading, transport and unloading detailed descriptions of listed conditions in every species For example: mammary engorgement in a dairy cow looks different than the same condition in a dog. The regulated party is expected to know the characteristics and appearance of the condition for the species they are transporting.\n1.8 Recommended additional references Regulated parties are also encouraged to refer to industry guidelines and/or veterinary opinions to assure the best animal welfare practices during all phases of animal transport. These sources provide relevant and valuable information: National Farm Animal Care Council (NFACC) Code of Practice for the Care and Handling of Farm Animals: Transportation (referred to as the \"Transport Code\"), as well as other NFACC species-specific codes of practice World Organization for Animal Health (WOAH; founded as Office International des Épizooties (OIE)) Terrestrial Animal Health Code Animal Welfare, Section 7, internationally recognized guidelines on the transport of terrestrial animals by sea, land and air in chapters 7.2-7.4 International Air Transport Association's (IATA) Live Animals Regulations(LAR) the transport of animals. The IATA LAR container requirements (for example, design and construction, stocking density guidelines) are incorporated by reference into the Part XII of the HAR",
+    "question": "What subjects are not covered in this document?",
+    "answer": "This document does not provide detailed information about all aspects of animal loading, transport, and unloading. It also does not provide detailed descriptions of listed conditions in every species. Regulated parties are expected to know the characteristics and appearance of the condition for the species they are transporting.",
+    "skip": true,
+    "reason": "overly vague and general"
+}

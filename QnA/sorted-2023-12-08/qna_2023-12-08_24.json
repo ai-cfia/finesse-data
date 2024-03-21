@@ -1,0 +1,12 @@
+{
+    "score": 0.4772364915032256,
+    "crawl_id": "f99845f2-64bd-47bd-959f-46c1c4946e8e",
+    "chunk_id": "cdde2ded-5e22-4e07-bf33-adaa06ece536",
+    "title": "Emailing PDF forms",
+    "url": "https://inspection.canada.ca/about-cfia/find-a-form/form-cfia-acia-5749/eng/1417633025090/1417633025996",
+    "text_content": "Emailing PDF forms Some forms contain a button which permits you to send the form by email. The form is sent using whatever email service or software you have configured on your computer. If you are using a web mail service (vs. email client software) and have not configured your email service to function with \"mail to\" links, the button may not function. You may save your file, and send the file as an attachment using whatever functionality your computer configuration and email provider supplies. Note: do not email forms which contain credit card information.",
+    "question": "How can I email PDF forms?",
+    "answer": "Some forms contain a button which permits you to send the form by email. The form is sent using whatever email service or software you have configured on your computer. If you are using a web mail service (vs. email client software) and have not configured your email service to function with 'mail to' links, the button may not function. You may save your file, and send the file as an attachment using whatever functionality your computer configuration and email provider supplies. Note: do not email forms which contain credit card information.",
+    "skip": true,
+    "reason": "overly vague and general"
+}

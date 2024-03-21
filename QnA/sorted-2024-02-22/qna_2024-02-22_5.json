@@ -1,0 +1,12 @@
+{
+    "page_score": 0.6619977792647007,
+    "crawl_id": "780d6c27-f013-476a-91cf-7b9ad7d97de7",
+    "chunk_id": "dee818ec-0aba-4962-9853-dbf89a33401b",
+    "title": "Schedule",
+    "url": "https://inspection.canada.ca/eng/1664053525638/1664053526029",
+    "text_content": "Schedule CommercialFootnote 2 or non-commercialFootnote 3 poultry. This includes day-old poultry and hatching eggs, eggs and other products or by-products of such captive domestic poultry, and things that have been exposed to such a bird. AND Other captive birds (including birds that are raised in captivity for racing, exhibitions, zoological collections, competitions, or pets) if movements may result in contact with commercial or non-commercial poultry or their facilities. This includes eggs, other products or by-products of other captive birds, and things that have been exposed to such a bird.",
+    "question": "What does the schedule include for poultry?",
+    "answer": "The schedule includes day-old poultry and hatching eggs, eggs and other products or by-products of captive domestic poultry, and things that have been exposed to such a bird. It also includes other captive birds if movements may result in contact with poultry or their facilities. This includes eggs, other products or by-products of other captive birds, and things that have been exposed to such a bird.",
+    "skip": true,
+    "reason": "overly vague and general"
+}
