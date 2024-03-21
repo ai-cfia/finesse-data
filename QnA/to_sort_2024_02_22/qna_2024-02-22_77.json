@@ -8,5 +8,5 @@
     "question": "Quels sont les contacts pour les demandes de renseignements du public?",
     "answer": "Les contacts pour les demandes de renseignements du public sont les suivants:\n- Sans frais : 1-800-442-2342 (Canada et États-Unis)\n- Téléphone : 1-613-773-2342 (local ou international)\n- Courriel : information@inspection.gc.ca",
     "skip": true,
-    "reason": "overly vague and general"
+    "reason": "overly vague and general and duplicated question"
 }

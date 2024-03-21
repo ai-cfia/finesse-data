@@ -6,5 +6,7 @@
     "url": "https://inspection.canada.ca/food-recall-warnings-and-allergy-alerts/2019-02-27/eng/1551284021762/1551284022043",
     "text_content": "Product photos Printer ready version of photos",
     "question": "What is the purpose of the product photos?",
-    "answer": "The product photos are provided as a printer ready version of the photos."
+    "answer": "The product photos are provided as a printer ready version of the photos.",
+    "skip": true,
+    "reason": "overly vague and general and duplicated question"
 }

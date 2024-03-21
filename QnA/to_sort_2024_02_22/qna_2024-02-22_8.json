@@ -8,5 +8,5 @@
     "question": "How can I contact public enquiries?",
     "answer": "You can contact public enquiries through the following methods:\n- Toll-free: 1-800-442-2342 (Canada and U.S.)\n- Telephone: 1-613-773-2342 (local or international)\n- Email: information@inspection.gc.ca",
     "skip": true,
-    "reason": "overly vague and general"
+    "reason": "overly vague and general and duplicated question"
 }

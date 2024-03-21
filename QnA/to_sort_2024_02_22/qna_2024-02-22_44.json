@@ -6,5 +6,7 @@
     "url": "https://inspection.canada.ca/avertissements/2021-10-15/fra/1634327751769/1634327759471",
     "text_content": "Contenu Détails du rappel Ce qu'il faut faire Contexte Cas de maladie Rappel connexes Photos du produit Demandes de renseignements du public et des médias",
     "question": "Quels sont les détails du rappel?",
-    "answer": "Les détails du rappel ne sont pas fournis dans le texte."
+    "answer": "Les détails du rappel ne sont pas fournis dans le texte.",
+    "skip": true,
+    "reason": "overly vague and general"
 }

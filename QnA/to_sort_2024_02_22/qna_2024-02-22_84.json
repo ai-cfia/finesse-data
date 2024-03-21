@@ -8,5 +8,5 @@
     "question": "How can I open a form?",
     "answer": "To open a form, you need to download and open it using Adobe Reader. Follow these steps:\n1. Right click or Control+Click (Mac users) on the download link and choose Save link as or Download Linked File as (Mac users) to save the form to your computer.\n2. Launch Adobe Reader.\n3. Browse to the folder where you saved the form, and open it from within Adobe Reader.\n4. You can now fill and save the PDF form.\n\nNote: CFIA fillable PDF forms are compatible with Adobe Reader 10 and higher. They may not be fully supported in other PDF viewers and on some mobile devices. If you require an alternative version, please contact us. Tablets and phones may not be able to open these forms even with Adobe Reader. If you want to enable the automatic download of PDF files to your computer in Google Chrome, follow these steps:\n1. Copy the following text: chrome://settings/content/pdfDocuments\n2. Paste the copied text into the address bar of your browser and press Enter.\n3. On the right side of the browser, enable or turn on 'Download PDF files instead of automatically opening them in Chrome'. (The toggle will turn blue when it is turned on).",
     "skip": true,
-    "reason": "overly vague and general"
+    "reason": "overly vague and general and duplicated question"
 }
