@@ -1,0 +1,12 @@
+{
+    "page_score": 0.5200088632851156,
+    "crawl_id": "5021b906-3c86-4817-931d-5979f4e72c38",
+    "chunk_id": "35e08f03-05f7-484a-af10-606a36b125c8",
+    "title": "Product photos",
+    "url": "https://inspection.canada.ca/food-recall-warnings-and-allergy-alerts/2021-09-08/eng/1631145711147/1631145716968",
+    "text_content": "Product photos Printer ready version of photos",
+    "question": "What is the purpose of the product photos?",
+    "answer": "The product photos are provided as a printer-ready version of the photos.",
+    "skip": true,
+    "reason": "overly vague and general and duplicated question"
+}

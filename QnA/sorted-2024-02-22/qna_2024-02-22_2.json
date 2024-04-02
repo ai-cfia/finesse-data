@@ -1,0 +1,12 @@
+{
+    "page_score": 0.6865392458783383,
+    "crawl_id": "00009c98-e335-4ed1-aeff-b9de05c1f022",
+    "chunk_id": "222bb1d7-0a24-46b1-8307-a0c27aa3b602",
+    "title": "Imprimer des formulaires PDF :",
+    "url": "https://inspection.canada.ca/a-propos-de-l-acia/trouver-un-formulaire/avis-de-confidentialite/fra/1445601295813/1445601296610",
+    "text_content": "Imprimer des formulaires PDF : De nombreux formulaires comportent 1 bouton Imprimer. Dans certains cas, le formulaire peut inclure plusieurs boutons d'impression. Chaque bouton d'impression est configuré de manière à imprimer une page ou une série de pages en particulier. Il n'est pas recommandé d'utiliser les autres commandes pour accéder à la fonction d'impression. Si vous avez cliqué sur un bouton d'impression configuré, ne modifiez pas l'information saisie dans la fenêtre « Pages à imprimer ». Repérez la section Dimensionnement et gestion des pages de la boîte de dialogue Imprimer. Il est recommandé de sélectionner « Taille réelle » et de vous assurer que la case « Choisir la source de papier selon le format de la page PDF » est cochée. Le logiciel imprime ainsi les pages comme elles ont été conçues.",
+    "question": "Comment imprimer des formulaires PDF ?",
+    "answer": "De nombreux formulaires comportent 1 bouton Imprimer. Dans certains cas, le formulaire peut inclure plusieurs boutons d'impression. Chaque bouton d'impression est configuré de manière à imprimer une page ou une série de pages en particulier. Il n'est pas recommandé d'utiliser les autres commandes pour accéder à la fonction d'impression. Si vous avez cliqué sur un bouton d'impression configuré, ne modifiez pas l'information saisie dans la fenêtre « Pages à imprimer ». Repérez la section Dimensionnement et gestion des pages de la boîte de dialogue Imprimer. Il est recommandé de sélectionner « Taille réelle » et de vous assurer que la case « Choisir la source de papier selon le format de la page PDF » est cochée. Le logiciel imprime ainsi les pages comme elles ont été conçues.",
+    "skip": true,
+    "reason": "overly vague and general and duplicated question"
+}
