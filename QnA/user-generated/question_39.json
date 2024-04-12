@@ -1,0 +1,16 @@
+{
+    "question": "où puis-je trouver des informations sur les aliments supplémentés?",
+    "answer": "",
+    "title": [
+        "Aliments supplémentés : Aperçu - Canada.ca",
+        "Lignes directrices : Règlement sur les aliments supplémentés - Canada.ca",
+        "La Gazette du Canada, Partie 2, volume 156, numéro 15 :  (canadagazette.gc.ca)"
+    ],
+    "link": [
+        "https://www.canada.ca/fr/sante-canada/services/aliments-nutrition/aliments-supplementes.html",
+        "https://www.canada.ca/fr/sante-canada/services/aliments-nutrition/legislation-lignes-directrices/documents-reference/reglement-aliments-supplementes.html",
+        "https://canadagazette.gc.ca/rp-pr/p2/2022/2022-07-20/html/sor-dors169-fra.html"
+    ],
+    "skip": true,
+    "reason": "no links to inspection.canada.ca"
+}
