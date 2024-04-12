@@ -1,0 +1,16 @@
+{
+    "question": "Je dois évaluer en tant qu’inspecteur le protocole E.coli d’un producteur de matériaux précurseurs de boeuf, quels documents dois-je consulter?",
+    "answer": "Il s'agit des 4 références énumérées ici",
+    "title": [
+        "Exigences de contrôles préventifs pour les dangers biologiques dans les produits de viande / Mesures de contrôle pour Escherichia coli O157:H7/NM dans les produits de bœuf cru",
+        "Lignes directrices de l'industrie : Contrôles préventifs pour E. coli O157/NM dans les produits de bœuf cru",
+        "Plan d'intervention de contrôle pour la détection d'E. coli O157:H7/NM dans les produits de bœuf cru",
+        "Annexe D-2 Plan d'échantillonnage de vérification de l'ACIA fondé sur les risques de présence d'E. coli producteur de toxine de Shiga dans les parures de bœuf provenant d'abattoirs autorisés à exporter aux É.-U"
+    ],
+    "url": [
+        "https://inspection.canada.ca/a-propos-de-l-acia/lois-et-reglements/liste-des-lois-et-reglements/documents-incorpores-par-renvoi/dangers-biologiques-dans-les-produits-de-viande/fra/1519737053960/1519737054373",
+        "https://inspection.canada.ca/controles-preventifs/produits-de-viande/produits-de-boeuf-cru/fra/1541538060346/1541538137261",
+        "https://inspection.canada.ca/fra/1540827811911/1540827812129",
+        "https://inspection.canada.ca/exportation-d-aliments-de-plantes-ou-d-animaux/exportations-d-aliments/exigences/exigences-d-exportation-pour-les-produits-de-viand/annexe-d-2/fra/1379532006077/1379532082219"
+    ]
+}
